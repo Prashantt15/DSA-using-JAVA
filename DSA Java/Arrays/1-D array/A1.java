@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class A1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter how many elements present in array ");
+        System.out.println("Enter elements in array ");
         int n=sc.nextInt();
         int[] arr=new int[n];
         System.out.println("Enter elements value");
